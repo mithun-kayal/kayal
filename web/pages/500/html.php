@@ -1,0 +1,1 @@
+<div class="wrapper-page"><div class="ex-page-content text-center"><h1 class="text-white">500</h1><h2 class="text-white">Internal Server Error.</h2><br><a class="btn btn-info waves-effect waves-light" href="?">Back to Dashboard</a></div></div>
